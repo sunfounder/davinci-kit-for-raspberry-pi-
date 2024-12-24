@@ -125,7 +125,7 @@ rst_epilog += """
 
 .. |link_sf_facebook| raw:: html
 
-    <a href="https://bit.ly/raphaelkit " target="_blank">here</a>
+    <a href="https://bit.ly/raphaelkit " target="_blank">Aquí</a>
 
 .. |Adafruit_CircuitPython_DHT| raw:: html
 
@@ -137,7 +137,7 @@ rst_epilog += """
 
 .. |link_DaVin_kit| raw:: html
 
-    <a href="https://www.sunfounder.com/collections/raspberry-pi-kits-bundles/products/sunfounder-davinci-kit" target="_blank">Purchase Link for DaVinci Kit</a>
+    <a href="https://www.sunfounder.com/collections/raspberry-pi-kits-bundles/products/sunfounder-davinci-kit" target="_blank">Enlace de compra para DaVinci Kit</a>
 
      
 """
