@@ -109,6 +109,18 @@ rst_epilog = """
 
     <a href="https://docs.sunfounder.com/projects/davinci-kit/en/latest/" target="_blank">English Online-tutorials</a>
 
+.. |link_fr_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/davinci-kit/fr/latest/" target="_blank">Didacticiels en ligne en français</a>
+
+.. |link_es_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/davinci-kit/es/latest/" target="_blank">Tutoriales en línea en español</a>
+
+.. |link_it_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/davinci-kit/it/latest/" target="_blank">Tutorial online in italiano</a>
+    
 .. |Adafruit_CircuitPython_DHT| raw:: html
 
     <a href="https://github.com/adafruit/Adafruit_CircuitPython_DHT" target="_blank">adafruit/Adafruit_CircuitPython_DHT</a>   
