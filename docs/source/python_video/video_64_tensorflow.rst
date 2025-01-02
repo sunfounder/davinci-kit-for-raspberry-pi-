@@ -12,7 +12,7 @@
 
     👉 私たちと一緒に探索し、創造する準備はできていますか？[|link_sf_facebook|]をクリックして今すぐ参加しましょう！
 
-Video 64: Raspberry PiでのTensorFlow Liteを使用したオブジェクト検出
+ビデオ 64: Raspberry PiでのTensorFlow Liteを使用したオブジェクト検出
 =======================================================================================
 
 Raspberry Piでのオブジェクト検出の方法を比較します：TensorFlow LiteとOpenCVを使用した方法です。最初のチュートリアルでは、TensorFlow Liteを使用してRaspberry Piでオブジェクト検出を行う方法を紹介します。2番目のチュートリアルでは、OpenCVとTensorFlowを使用してオブジェクト検出を設定する方法に焦点を当てます。

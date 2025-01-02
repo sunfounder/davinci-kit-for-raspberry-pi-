@@ -87,7 +87,7 @@
     const Gpio = require('pigpio').Gpio;
     const active = new Gpio(17,{mode: Gpio.OUTPUT});
 
-``pigpio``モジュールをインポートし、IOポートGpio17を制御するオブジェクトactiveをインスタンス化し、モードを出力モードに設定します。
+``pigpio`` モジュールをインポートし、IOポートGpio17を制御するオブジェクトactiveをインスタンス化し、モードを出力モードに設定します。
 
 .. code-block:: js
 

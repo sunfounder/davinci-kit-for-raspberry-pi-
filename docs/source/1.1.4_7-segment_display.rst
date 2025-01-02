@@ -357,7 +357,7 @@ Python言語ユーザー向け
         GPIO.setup(RCLK, GPIO.OUT, initial=GPIO.LOW)
         GPIO.setup(SRCLK, GPIO.OUT, initial=GPIO.LOW)
 
-Set ``ds``, ``st_cp`` , ``sh_cp`` の3つのピンを出力に設定し、初期状態を低レベルとして設定する。
+Set ``ds`` , ``st_cp`` , ``sh_cp`` の3つのピンを出力に設定し、初期状態を低レベルとして設定する。
 
 .. code-block:: python
 

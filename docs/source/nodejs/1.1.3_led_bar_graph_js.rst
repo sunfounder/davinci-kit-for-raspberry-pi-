@@ -135,7 +135,7 @@ LEDバーグラフは複数のピンを使用するため、これらをまと�
         }
     }
 
-``oddLedBarGraph()``関数を実装して、LEDバーグラフの奇数のLEDを点灯させます。    
+``oddLedBarGraph()`` 関数を実装して、LEDバーグラフの奇数のLEDを点灯させます。    
 
 .. code-block:: js
 
@@ -149,7 +149,7 @@ LEDバーグラフは複数のピンを使用するため、これらをまと�
         };
     }
 
-``evenLedBarGraph()``関数を実装して、LEDバーグラフの偶数のLEDを点灯させます。
+``evenLedBarGraph()`` 関数を実装して、LEDバーグラフの偶数のLEDを点灯させます。
 
 .. code-block:: js
 
