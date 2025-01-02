@@ -62,7 +62,7 @@ Da Vinci Kitは、プロジェクトスケジュールを持つ意欲的な初�
 
 
 
-Copyright Notice
---------------------------
+著作権に関する通知  
+--------------------------  
 
-All contents including but not limited to texts, images, and code in this manual are owned by the SunFounder Company. You should only use it for personal study,investigation, enjoyment, or other non-commercial or nonprofit purposes, under therelated regulations and copyrights laws, without infringing the legal rights of the author and relevant right holders. For any individual or organization that uses these for commercial profit without permission, the Company reserves the right to take legal action.
+本マニュアルに含まれる、テキスト、画像、コードなどを含むすべての内容は、SunFounder社に帰属します。本マニュアルの内容は、関連する規制および著作権法に基づき、著者および関連権利者の法的権利を侵害しない範囲で、個人的な学習、調査、娯楽、その他非営利目的に限り使用してください。許可なく商業的利益を目的としてこれらを利用する個人または組織に対しては、当社は法的措置を講じる権利を留保します。  
