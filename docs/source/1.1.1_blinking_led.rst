@@ -185,8 +185,8 @@ sur ces deux méthodes, sont les mêmes. Continuons.
     C *1_BlinkingLed.c* et à générer un fichier exécutable.
 
 Dans la commande, ``-o`` signifie output (le caractère immédiatement après -o est 
-le nom du fichier exécutable généré après compilation, ici nommé ``BlinkingLed``), 
-et ``-lwiringPi`` permet de charger la bibliothèque wiringPi (``l`` est l'abréviation 
+le nom du fichier exécutable généré après compilation, ici nommé ``BlinkingLed`` ), 
+et ``-lwiringPi`` permet de charger la bibliothèque wiringPi ( ``l`` est l'abréviation 
 de library).
 
 **Étape 4 :** Exécutez le fichier exécutable généré à l'étape précédente.
