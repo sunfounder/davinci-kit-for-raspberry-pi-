@@ -25,7 +25,7 @@ Si eres un usuario que acaba de comenzar a utilizar Scratch 3, te recomendamos q
 
     .. code-block::
 
-        git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git
+        git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git --depth 1
 
 .. toctree::
     :maxdepth: 1
