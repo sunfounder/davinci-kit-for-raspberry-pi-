@@ -42,4 +42,4 @@ Clona il repository da GitHub.
    
 .. code-block::
 
-   git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git
+   git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git --depth 1
