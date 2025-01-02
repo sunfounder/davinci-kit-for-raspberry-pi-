@@ -25,7 +25,7 @@ If you are a user who has just used Scratch 3, we recommend that you try the pro
 
     .. code-block::
 
-        git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git
+        git clone https://github.com/sunfounder/davinci-kit-for-raspberry-pi.git --depth 1
 
 .. toctree::
     :maxdepth: 1
